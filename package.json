@@ -21,6 +21,7 @@
     "expect.js": "~0.3.1"
   },
   "dependencies": {
+    "bluebird": "^3.0.5",
     "jsonp": "~0.2.0"
   },
   "scripts": {
